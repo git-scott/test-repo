@@ -1,3 +1,3 @@
 # test-repo
 Test Repository
-Blah Blah etc.
+I think I get it
